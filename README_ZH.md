@@ -17,7 +17,7 @@ Etherscan.io的Golang实现，
 
 ```go
 import (
-	"github.com/nanmu42/etherscan-api"
+	"github.com/VincentDR/etherscan-api"
 	"fmt"
 )
 

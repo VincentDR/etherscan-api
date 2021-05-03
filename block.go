@@ -5,7 +5,7 @@
  * You may find a license copy in project root.
  */
 
-package etherscan
+package bscscan
 
 // BlockReward gets block and uncle rewards by block number
 func (c *Client) BlockReward(blockNum int) (rewards BlockRewards, err error) {

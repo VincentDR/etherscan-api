@@ -1,4 +1,4 @@
-// Package etherscan provides Go bindings to the Etherscan.io API.
+// package bscscan provides Go bindings to the Etherscan.io API.
 //
 // This work is a nearly Full implementation
 // (accounts, transactions, tokens, contracts, blocks, stats),
@@ -6,4 +6,4 @@
 // and only depending on standard library.
 //
 // Example can be found at https://github.com/nanmu42/etherscan-api
-package etherscan
+package bscscan

@@ -5,7 +5,7 @@
  * You may find a license copy in project root.
  */
 
-package etherscan
+package bscscan
 
 import (
 	"fmt"
